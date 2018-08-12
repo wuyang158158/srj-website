@@ -1,6 +1,6 @@
 
 
-/* Body 
+/* Body
 ------------------------------------- */
 body {
     background: #ffffff;
@@ -101,7 +101,7 @@ hr {
   font-weight: bold;
 }
 
-#work, #about, #team, 
+#work, #about, #team,
 #portfolio, #plan, #contact {
 	padding-top: 120px;
 	padding-bottom: 100px;
@@ -173,11 +173,11 @@ hr {
 }
 
 .custom-navbar .navbar-brand  {
-  border: 4px solid #ffffff;
+  /* border: 4px solid #ffffff; */
   color: #ffffff;
   font-weight: 600;
   font-size: 24px;
-  padding-top: 11px;
+  /* padding-top: 11px; */
 }
 
 .custom-navbar .navbar-brand .navbar-toggle {
@@ -188,8 +188,8 @@ hr {
 }
 
 .custom-navbar .nav li {
-  
-}    
+
+}
 
 .custom-navbar .nav li a {
 	display: block;
@@ -745,7 +745,7 @@ footer h2 {
 
 
 /*------------------------------------------------------
-  RESPONSIVE STYLES 
+  RESPONSIVE STYLES
 --------------------------------------------------------*/
 @media (max-width: 1200px) {
   .bx-thumbnail-wrapper {
@@ -787,7 +787,7 @@ footer h2 {
 }
 
 @media (max-width: 768px) {
-	
+
   .slider-caption {
 	  bottom: 30px;
   }
@@ -798,11 +798,11 @@ footer h2 {
 	  font-size: 12px;
 	  line-height: 14px;
   }
-  
+
   .bx-controls-direction {
     bottom: -40px;
   }
-  
+
   #about .mobile-top {
     padding-top: 32px;
   }
